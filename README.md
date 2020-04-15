@@ -1,6 +1,3 @@
-## 赛奥科数据中心服务
-本项目使用[Laravel5.5](https://laravel.com/docs/5.5) 开发.项目依赖于[l5-repository](https://github.com/andersao/l5-repository)和[Dingo api](https://github.com/dingo/api).
-
 ## Environment
 - Nginx 1.8+
 - PHP 7.1+
