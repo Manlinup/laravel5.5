@@ -1,2 +1,5 @@
-/vendor
+/vendor/*
+/bootstrap/cache/*
+/storage/*
 .idea/*
+dump.rdb

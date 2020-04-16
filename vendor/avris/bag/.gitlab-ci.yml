@@ -1,4 +1,0 @@
-phpunit:
-    script:
-        - composer install --dev
-        - vendor/bin/phpunit
