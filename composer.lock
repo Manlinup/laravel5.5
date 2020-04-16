@@ -2499,16 +2499,16 @@
         },
         {
             "name": "sak/service-base",
-            "version": "1.0",
+            "version": "1.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Manlinup/service-base.git",
-                "reference": "35a0b3ee4a95321f63d22115586f5cdd8e8eda98"
+                "reference": "666250b4c529bff2701859702ad2c457c82378aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Manlinup/service-base/zipball/35a0b3ee4a95321f63d22115586f5cdd8e8eda98",
-                "reference": "35a0b3ee4a95321f63d22115586f5cdd8e8eda98",
+                "url": "https://api.github.com/repos/Manlinup/service-base/zipball/666250b4c529bff2701859702ad2c457c82378aa",
+                "reference": "666250b4c529bff2701859702ad2c457c82378aa",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2555,7 +2555,7 @@
                 }
             ],
             "description": "php service base",
-            "time": "2019-12-20T05:14:51+00:00"
+            "time": "2020-04-16T06:20:26+00:00"
         },
         {
             "name": "swagger-api/swagger-ui",
